@@ -1,4 +1,6 @@
-# Tableau_Projects
+# Tableau Projects
+
+[![Tableau](https://img.shields.io/badge/Tableau-Public-blue)](https://public.tableau.com/app/profile/dhruvkotecha5)
 
 A meticulously curated collection of dynamic and insightful data visualizations. This repository is a centralized hub for various Tableau dashboards, each designed to provide unique perspectives and meaningful insights into diverse datasets.
 
